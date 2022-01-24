@@ -1,0 +1,170 @@
+body {
+    margin: 0;
+    font-family: Kozuha Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.block1{
+    width: 100%;
+    height: 700px;
+    background-image: url(images/bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.block1 h1,#buy2 {
+    margin: 0 auto;
+}
+
+.header {
+    margin-right: 0;
+    margin-left: 20vw;
+    color: white;
+    margin-bottom: 60px;
+}
+
+.header h5,button{
+    display: inline-block;
+    position:static;
+    margin-left: 10vw;
+}
+
+#buy1, #b51 {
+    border: none;
+    border-radius: 10px;
+    background-color: #83A844;
+    color: white;
+    padding: 10px 3vw;
+    font-family: Lucida Sans;
+    font-size: 20pt;
+    margin-top: 10px;
+    margin-right: 1vw;
+}
+
+#buy1:active, #b51:active {
+    background-color: azure;
+}
+
+#buy2 {
+    margin-top: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: #83A844;
+    color: white;
+    padding: 15px 5vw;
+    font-family: Lucida Sans;
+    font-size: 20pt;
+}
+
+#buy2:active {
+    background-color: azure;
+}
+
+.border1 {
+    width: 35%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0 auto;
+    background-color: rgba(0,0,0,0.6);
+    border-style: solid;
+    border-width: 1vw;
+    border-color: white;
+}
+
+.block2 {
+    margin: 30px;
+    text-align: center;
+}
+
+.block2 img{
+    width: 30vw;
+    display: inline-block;
+}
+
+.text2 {
+    width: 30vw;
+    display: inline-block;
+    margin-left: 3vw;
+    text-align: left;
+}
+
+.block3 {
+    background-image: url(images/imgblock3.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+#b3t1 {
+    margin-top: 60px;
+    margin-left: 5vw;
+    float: left;
+}
+
+#b3t2 {
+    margin-top: 60px;
+    margin-right: 5vw;
+    float: right;
+}
+
+.block4 {
+    text-align: center;
+}
+
+.b4tree {
+    display: inline-block;
+    width: 20vw;
+    margin: 20px 5vw;
+}
+
+.block4 img {
+    width: 20vw;
+}
+
+.block4 h5 {
+    width: 20vw;
+}
+
+.block4 button {
+    margin: 20px auto;
+    width: 10vw;
+    height: 30px;
+    background-color: #83A844;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+}
+
+.block4 button:active {
+    background-color: white;
+}
+
+.block5 {
+    text-align: center;
+    height: 460px;
+    background-color: #000D0F;
+    color: white;
+}
+
+.block5 h2 {
+    padding-top: 50px;
+}
+
+.block5 h5 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 30vw;
+    margin: 20px auto;
+}
+
+.block5 button {
+    margin: 0 auto;
+}
